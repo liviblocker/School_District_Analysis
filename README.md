@@ -10,13 +10,38 @@ For this analysis, I was asked to complete a range of tasks for a local school d
   * Determine the scores by school spending per student, by school size, and by school type
 
 ## Results:
-### District summary
-In the initial analysis, 
+### District Summary
+In both analyses, the percentage of students that passed math was 75%, students that passed reading was 86%, and the overall passing percentage was at 65%. When nineth graders in Thomas High School were removed from the analysis, percentages only shifted by .1 percentage points, leaving the overall district numbers the same. See below for the Initial analysis district summary, and the secondary analysis, respectively.
 
-  * Develop a school summary
-  * Determine the top 5 and bottom 5 performing schools, based on the overall passing rate
-  * Determine the average math score for each grade level from each school
-  * Determine the average reading score for each grade level from each school
+![Old_District_Summary.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_District_Summary.png)
+![New_District_Summary.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_District_Summary.png)
+
+
+### School Summary
+Dropping the Thomas High School nineth grade math and reading scores made a significant difference in the school summary. As you can see in the images below, the percentage of Thomas High School students that passed math shifted from 67% to 93%, the percentage of Thomas High School students that passed reading shifted from 70% to 97%, and the overall passing percentage shifted from 65% to  90%.
+
+![Old_School_Summary.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_District_Summary.png)
+![New_School_Summary.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_District_Summary.png)
+
+### Top 5 and Bottom 5 Performing Schools
+With the removal of the nineth graders scores, Thomas High School jumped to the second highest performing school in the district. 
+
+![Old_Top_5.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_District_Summary.png)
+![New_Top_5.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_District_Summary.png)
+
+Because Thomas High School was not in the bottom 5 schools, the change did not affect the list of bottom 5 performing schools in the district.
+
+### Average Math and Reading Score by Grade
+As you might imagine, the average math and reading scores (by grade) were not affected by the data removal other than the obvious: that the nineth graders in Thomas High School did not have grades.
+
+#### Math Scores
+![Old_Math_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Math_Scores.png)
+![New_Math_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Math_Scores.png)
+
+#### Reading Scores
+![Old_Reading_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Reading_Scores.png)
+![New_Reading_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Reading_Scores.png)
+
   * Determine the scores by school spending per student, by school size, and by school type
     * No difference in the scores by school spending per student, by school size, or by school type.
 

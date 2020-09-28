@@ -29,42 +29,48 @@ With the removal of the nineth graders scores, Thomas High School jumped to the 
 ![Old_Top_5.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_District_Summary.png)
 ![New_Top_5.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_District_Summary.png)
 
-Because Thomas High School was not in the bottom 5 schools, the change did not affect the list of bottom 5 performing schools in the district.
+Because Thomas High School was not in the bottom 5 schools, the change did not affect the list of bottom 5 performing schools in the district:
+
+![Bottom_5.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_District_Summary.png)
 
 ### Average Math and Reading Score by Grade
 As you might imagine, the average math and reading scores (by grade) were not affected by the data removal other than the obvious: that the nineth graders in Thomas High School did not have grades.
 
 #### Math Scores
-![Old_Math_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Math_Scores.png)
-![New_Math_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Math_Scores.png)
+<p align="center">
+Initial Analysis | Updated Analysis
+:---:|:---:
+![Old_Math_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Math_Scores.png)  |  ![New_Math_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Math_Scores.png)
+</p>
 
 #### Reading Scores
-![Old_Reading_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Reading_Scores.png)
-![New_Reading_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Reading_Scores.png)
+<p align="center">
+ Initial Analysis | Updated Analysis
+:---:|:---:
+![Old_Reading_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Reading_Scores.png)  |  ![New_Reading_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Reading_Scores.png)
+</p>
 
-  * Determine the scores by school spending per student, by school size, and by school type
-    * No difference in the scores by school spending per student, by school size, or by school type.
+### Scores by School Spending per Student, by School Size, and by School Type
+There was no significant difference in the scores by school spending per student, by school size, or by school type. The following are the results of each:
 
-The analysis of the school district data shows the following:
-  
-  * The total number of votes cast in the congressional election was 369,711.
-  
-  * The voter turnout for each county is as follows:
-  
-    * Jefferson County: 10.5% (38,855 votes)
-    * Denver County: 82.8% (306,055 votes)
-    * Arapahoe County: 6.7% (24,801 votes)
- 
-  * The Denver County had the highest turnout with 82.8% voter turnout (a total of 306,055 ballots cast).
-  
-  * The total number of votes cast for each candidate are as follows:
-  
-    * Charles Casper Stockham: 23.0% (85,213)
-    * Diana DeGette: 73.8% (272,892)
-    * Raymon Anthony Doane: 3.1% (11,606)
-    
-  * The winner of the election is Diana DeGette with 73.8% of the vote (a total of 272,892 votes).
-  
+#### School Spending per Student
+<p align="center">
+![Old_Spending.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Spending.png)
+![New_Spending.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Spending.png)
+</p>
+
+#### School Spending by School Size
+<p align="center">
+![Old_Size.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Size.png)
+![New_Size.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Size.png)
+</p>
+
+#### School Spending by School Type
+<p align="center">
+![Old_Type.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Type.png)
+![New_Type.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Type.png)
+</p>
+
   ## Summary
 There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
 

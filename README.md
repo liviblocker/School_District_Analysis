@@ -36,39 +36,37 @@ Because Thomas High School was not in the bottom 5 schools, the change did not a
 ### Average Math and Reading Score by Grade
 As you might imagine, the average math and reading scores (by grade) were not affected by the data removal other than the obvious: that the nineth graders in Thomas High School did not have grades.
 
-#### Math Scores
 <p align="center">
+
+#### Math Scores
 Initial Analysis | Updated Analysis
 :---:|:---:
 ![Old_Math_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Math_Scores.png)  |  ![New_Math_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Math_Scores.png)
-</p>
 
 #### Reading Scores
-<p align="center">
  Initial Analysis | Updated Analysis
 :---:|:---:
 ![Old_Reading_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Reading_Scores.png)  |  ![New_Reading_Scores.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Reading_Scores.png)
+
 </p>
 
 ### Scores by School Spending per Student, by School Size, and by School Type
 There was no significant difference in the scores by school spending per student, by school size, or by school type. The following are the results of each:
 
-#### School Spending per Student
 <p align="center">
+ 
+#### School Spending per Student
 ![Old_Spending.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Spending.png)
 ![New_Spending.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Spending.png)
-</p>
 
 #### School Spending by School Size
-<p align="center">
 ![Old_Size.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Size.png)
 ![New_Size.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Size.png)
-</p>
 
 #### School Spending by School Type
-<p align="center">
 ![Old_Type.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Type.png)
 ![New_Type.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Type.png)
+
 </p>
 
   ## Summary

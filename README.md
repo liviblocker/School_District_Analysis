@@ -26,12 +26,12 @@ Dropping the Thomas High School nineth grade math and reading scores made a sign
 ### Top 5 and Bottom 5 Performing Schools
 With the removal of the nineth graders scores, Thomas High School jumped to the second highest performing school in the district. 
 
-![Old_Top_5.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_District_Summary.png)
-![New_Top_5.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_District_Summary.png)
+![Old_Top_5.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Top_5.png)
+![New_Top_5.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Top_5.png)
 
 Because Thomas High School was not in the bottom 5 schools, the change did not affect the list of bottom 5 performing schools in the district:
 
-![Bottom_5.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_District_Summary.png)
+![Bottom_5.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Bottom_5.png)
 
 ### Average Math and Reading Score by Grade
 As you might imagine, the average math and reading scores (by grade) were not affected by the data removal other than the obvious: that the nineth graders in Thomas High School did not have grades.
@@ -56,30 +56,19 @@ There was no significant difference in the scores by school spending per student
 <p align="center">
  
 #### School Spending per Student
-![Old_Spending.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Spending.png)
 ![New_Spending.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Spending.png)
 
 #### School Spending by School Size
-![Old_Size.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Size.png)
 ![New_Size.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Size.png)
 
 #### School Spending by School Type
-![Old_Type.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/Old_Type.png)
 ![New_Type.png](https://github.com/liviblocker/School_District_Analysis/blob/master/Resources/New_Type.png)
 
 </p>
 
   ## Summary
-There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
-
-The above analysis was completed by writing a code to output the winner of the congressional election in Colorado and the county with the highest turnout. The script also outputs a full candidate and county list and the number of votes associated with each. With some modifications this script can be utilized to output those same results in any given election, including national elections or smaller city races. The same logic applies, though the variable names may need to be updated for clarity. As you can see in the code below, I've associated different variable names to different columns in the election data that was provided:
-  
-  ![Election_Analysis_Picture1.png](https://github.com/liviblocker/Election_Analysis/blob/master/Resources/Election_Analysis_Picture1.png)
-  
-  By adding candidates or counties, or the number of ballots more generally, then with the click of a button a new analysis can be run.
-  
-  Additionally, the same code can be adapted for a number of uses. If we received any demographic information from the ballots, then the script can be adapted to determine the most popular candidate among women or African American voters, for example. This script, therefore, is not only helpful for determining election results, but can also be helpful in better understanding the constituency of various candidates that could determine policy considerations that impact specific demographic groups. These data would also be helpful for re-election purposes: to better understand what demographics were not reached by a particular candidate.
-  
-  With more robust voter demographic data we could also better determine what demographic populations voted in which counties. The racial demographics of voters by county - when compared to the general racial demographics of the county - could also be used to determine if there is poor turnout by a particular racial demographic group. This can, in turn, be used to determine if there are particular effects of voter suppression laws or other accessiblity issues to voting on a hyperlocal level.
-  
-  This is all to say, this script and my ability to adapt the code for further analysis could be helpful beyond this election. If given the opportunity to continue working with the election commission further, I can provide analysis that can be used in a wide variety of ways.
+The four major changes to the school district analysis after the reading and math scores had been replaced were:
+1. The passing percentages for math and reading increased dramatically at Thomas High School, increasing by almost 30 percentage points. This tells us the nineth grade scores were dragging down the school average rather significantly.
+2. As a result of dropping the nineth grade scores, Thomas High School is now shown to be the second most top performing high school in the district, which could impact funding the school recieves.
+3. Because Thomas High Schools has shown to be performing quite well, 
+4. While these differences are stark on a school by school scale, the adjustment made little difference on a district-wide scale. The small difference it did make, showed us that the adjustment actually lowered the overall performance of the district. This is likely due to the adjusted student numbers. This could potentially have a negative effect on district on a city-wide scale, though the difference is so minimal it likely won't affect the district's funding. 
